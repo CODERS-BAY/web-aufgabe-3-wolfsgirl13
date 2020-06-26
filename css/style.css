@@ -1,0 +1,69 @@
+h1{
+    color:rgb(187, 184, 184);}
+    
+    h2{
+      color:rgb(187, 184, 184)}
+    
+    h3{
+        color:rgb(187, 184, 184)}
+    
+    body {
+        margin: 30px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+        max width="100%"</max>
+        <style>
+        body {
+          margin-left: 20px;
+          font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        
+        }
+        body   { 
+            background-color: rgb(39, 34, 34);
+            color: rgb(180, 180, 180);
+            margin-left: auto;
+        }
+        p    { 
+            background-color: black;
+            color: #bbb;
+        }
+        * {
+          box-sizing: border-box;
+        }
+        html {
+          font: 100% Trebuchet MS;
+        }
+        .navi ul {
+          max-width: 40rem;
+          margin: auto;
+          padding: 0;
+          background: rgb(12, 12, 12);
+          list-style: none;
+          border-radius: 0,2rem;
+          display: flex;
+          justify-content: space-between;
+        }
+        .navi li {
+         border: 1px solid black;
+         border-radius: 0,2em;
+        }
+        
+        .nav a {
+          text-decoration: noe;
+          color: #bbb;
+          text-align: center;
+          padding: 0,5rem 1rem;
+          display: block;
+        
+        .nav a:hover {
+          background-color: #333;
+          color: black;
+        }
+        
+        .topnav a.active {
+          background-color: rgb(128, 56, 100);
+          color: white;
+        }
+        
+       
+        </style>
+        
